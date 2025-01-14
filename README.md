@@ -16,9 +16,7 @@
 Message sent
 ```
 
----
-
-### **Consumer Terminal Output:**  
+#### **Consumer Terminal Output:**  
 ```
 Todo [id=5, taskName=task name]
 ```
