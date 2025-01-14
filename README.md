@@ -1,21 +1,24 @@
-# Day 25 Lecture 
-## Tuesday 14 Jan 2025 
+# Day 25 Lecture  
+## Tuesday 14 Jan 2025  
 
-POST /api/messages
+### **POST /api/messages**  
 
-Request Body: 
-
+#### **Request Body:**  
+```json
 {
   "id": 5,
   "taskName": "task name"
 }
+```
 
-Response Body: 
-
-Message sent 
+#### **Response Body:**  
+```
+Message sent
+```
 
 ---
 
-In consumer terminal, print statement:
-
+### **Consumer Terminal Output:**  
+```
 Todo [id=5, taskName=task name]
+```
